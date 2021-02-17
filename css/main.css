@@ -24,6 +24,9 @@ h2 {
 ul {color: #A7344B;}
 body{
   background-color: rbg(169, 223, 191);
+  max-width:40em
+  padding: 0 5%;
+  margin: 0 auto;
 }
 /*Flexible Images*/
 img{
