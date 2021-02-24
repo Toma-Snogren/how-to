@@ -1,21 +1,30 @@
 h1 {
   font-family:Georgia, san-serif;
   }
+/* header */
+header h1{
+  font-size:3em;
+  margin-bottom: 0;
+}
+.byline {
+  font-size: 1em;
+  text-transform: uppercase;
+}
 h2 {
   font-family:cursive;
  }
  h3 {
   font-family:fantasy;
  }
- p1{
+ p.intro{
   font-family:Georgia, sans-serif;
    font-size: 2em
   line-heigt: 1.25;
   padding: 1em;
-  border-top: 0.1em dashed #000;
-  border-sides: 0.1em dashed #000;
-  border-bottom: 0.1em dashed #000;
-  margin: 1em;
+  border-top: 0.2em dashed #000;
+  border-sides: 0.2em dashed #000;
+  border-bottom: 0.2em dashed #000;
+  margin: 2em;
 }
 
  ul {
