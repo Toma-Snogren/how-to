@@ -8,7 +8,7 @@ header h1{
 }
 #header{
   position:relative;
-  background color:#ffc;
+  background-color:#ffc;
   margin:1em;
 }
 #header::before{
@@ -23,7 +23,7 @@ header h1{
 }
 #header::after{
   display:block;
-  contnent"";
+  content"";
   width:50%;
   padding-top:2em;
   border-bottom:0.1em solid #f00;
@@ -63,7 +63,7 @@ body{
 }
 #Review{
   position:relative;
-  background color:#ffc;
+  background-color:#ffc;
   margin:1em;
 }
 #Review li::marker{
@@ -81,7 +81,7 @@ body{
 }
 #Review::after{
   display:block;
-  contnent"";
+  content"";
   width:50%;
   padding-top:2em;
   border-bottom:0.1em solid #ff0;
