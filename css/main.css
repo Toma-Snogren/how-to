@@ -43,10 +43,9 @@ h2 {
  p.intro{
   font-family:Georgia, sans-serif;
    font-size: 2em;
-  line-heigt: 1.25;
+  line-height: 1.25;
   padding: 1em;
   border-top: 0.2em dashed #000;
-  border-sides: 0.2em dashed #000;
   border-bottom: 0.2em dashed #000;
   margin: 2em;
 }
@@ -56,8 +55,8 @@ h2 {
 }
 ul {color: #A7344B;}
 body{
-  background-color: rbg(169, 223, 191);
-  max-width:40em
+  background-color: rgb(169, 223, 191);
+  max-width:40em;
   padding: 0 5%;
   margin: 0 auto;
 }
