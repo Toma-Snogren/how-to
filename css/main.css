@@ -23,7 +23,7 @@ header h1{
 }
 #header::after{
   display:block;
-  content"";
+  content:"";
   width:50%;
   padding-top:2em;
   border-bottom:0.1em solid #f00;
@@ -42,7 +42,7 @@ h2 {
  }
  p.intro{
   font-family:Georgia, sans-serif;
-   font-size: 2em
+   font-size: 2em;
   line-heigt: 1.25;
   padding: 1em;
   border-top: 0.2em dashed #000;
@@ -81,7 +81,7 @@ body{
 }
 #Review::after{
   display:block;
-  content"";
+  content:"";
   width:50%;
   padding-top:2em;
   border-bottom:0.1em solid #ff0;
